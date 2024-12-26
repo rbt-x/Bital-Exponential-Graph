@@ -4,21 +4,27 @@ This project is a graphical application built using PyQt5 and pyqtgraph. It allo
 
 ## Installation
 
-To install the required libraries, first install the `requirements.txt` file using the following command:
+To install the required libraries, you can use the `setup.bat` file:
+
+```sh
+setup.bat
+```
+
+Alternatively, you can install the `requirements.txt` file using the following command:
 
 ```sh
 pip install -r requirements.txt
 ```
 
-Or you can use the `setup.py` file to install the libraries:
-
-```sh
-python setup.py
-```
-
 ## Usage
 
-To run the application, enter the following command in your terminal:
+To run the application, you can use the `run.bat` file:
+
+```sh
+run.bat
+```
+
+Alternatively, you can run the application using the following command in your terminal:
 
 ```sh
 python main.py
